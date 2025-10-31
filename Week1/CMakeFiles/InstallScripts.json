@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/neko-cee/task/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,5 @@
+/home/neko-cee/task/CMakeFiles/Task1.dir
+/home/neko-cee/task/CMakeFiles/Task2.dir
+/home/neko-cee/task/CMakeFiles/Task3.dir
+/home/neko-cee/task/CMakeFiles/edit_cache.dir
+/home/neko-cee/task/CMakeFiles/rebuild_cache.dir

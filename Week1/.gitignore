@@ -1,0 +1,6 @@
+*.pth
+*.pkl
+*.model
+*.weights
+*.h5
+*.pt
